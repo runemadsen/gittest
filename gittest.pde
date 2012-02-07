@@ -2,7 +2,8 @@ int myNumber = 0;
 
 void setup()
 {
-  println("Processing is awesome");
+  println("I AM MIKE!");
+  dfgdfgdf
 }
 
 void draw()
