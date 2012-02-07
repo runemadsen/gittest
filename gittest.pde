@@ -7,7 +7,5 @@ void setup()
 
 void draw()
 {
-   println("Processing is drawing"); 
-   
-   
+   println(myNumber); 
 }
