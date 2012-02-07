@@ -3,6 +3,10 @@ int myNumber = 0;
 void setup()
 {
   println("I AM MIKE!");
+<<<<<<< HEAD
+  dfgdfgdf
+=======
+>>>>>>> mike
 }
 
 void draw()
