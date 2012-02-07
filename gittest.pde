@@ -2,7 +2,7 @@ int myNumber = 0;
 
 void setup()
 {
-  println("I AM MIKE!");
+  println("I AM MIKE AGAIN!");
 }
 
 void draw()
